@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Service", "Service\Service.csproj", "{0B87D9E1-1007-4E14-B499-FADDBA4BA5B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Discovery", "Discovery\Discovery.csproj", "{2D5E5D64-0F5E-4CF9-AD2C-0EDE4C36C4D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{34806FE1-7E94-49C9-8186-A7FAE3529A19}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B87D9E1-1007-4E14-B499-FADDBA4BA5B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B87D9E1-1007-4E14-B499-FADDBA4BA5B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B87D9E1-1007-4E14-B499-FADDBA4BA5B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B87D9E1-1007-4E14-B499-FADDBA4BA5B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D5E5D64-0F5E-4CF9-AD2C-0EDE4C36C4D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D5E5D64-0F5E-4CF9-AD2C-0EDE4C36C4D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D5E5D64-0F5E-4CF9-AD2C-0EDE4C36C4D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D5E5D64-0F5E-4CF9-AD2C-0EDE4C36C4D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34806FE1-7E94-49C9-8186-A7FAE3529A19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34806FE1-7E94-49C9-8186-A7FAE3529A19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34806FE1-7E94-49C9-8186-A7FAE3529A19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34806FE1-7E94-49C9-8186-A7FAE3529A19}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29AA3D4F-5A74-47E5-BE4F-F33FE31643D1}
+	EndGlobalSection
+EndGlobal
